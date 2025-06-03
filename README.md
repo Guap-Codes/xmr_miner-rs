@@ -1,5 +1,5 @@
 # XMR_Miner-RS
-A High-performance Monero miner built using Rust.
+A High-performance Monero mining tool developed in Rust.
 
 ## ⚠️ Disclaimer
  This project is under active development. APIs, configuration formats, and command-line options may change without notice. CryptoNight variants (V7/R) are deprecated and will be removed in a future release.
