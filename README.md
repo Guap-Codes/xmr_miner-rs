@@ -106,7 +106,7 @@ Rust crates (pulled via Cargo.toml):
 
 ## Installation
 
-    Clone the repository
+ Clone the repository
 ```bash
 git clone https://github.com/guap-codes/xmr_miner-rs.git
 cd xmr_miner-rs
