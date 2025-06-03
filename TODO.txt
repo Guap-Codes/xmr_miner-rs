@@ -1,0 +1,34 @@
+Next Steps for src/utils/:
+
+    Add periodic health checks to logging
+
+    Implement log rotation for long-running instances
+
+    Add metric-specific logging for performance monitoring
+
+    Implement different log formats (JSON for production)
+
+    Add panic handling that integrates with logging
+
+    Implement colored output for development
+
+    Add warning suppression for noisy modules
+
+
+Next Steps for src/network:
+
+    Add TLS support for secure connections
+
+    Implement proxy support
+
+    Add multiple pool failover
+
+    Implement detailed statistics reporting
+
+    Add configuration validation
+
+    Implement benchmark mode
+
+    Add GPU support
+
+    Implement automatic algorithm detection
